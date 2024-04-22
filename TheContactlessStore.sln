@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheContactlessStore", "TheContactlessStore.csproj", "{642AB311-DD94-4A3F-AD6E-177496FCD49F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheContactlessStore", "TheContactlessStore\TheContactlessStore.csproj", "{C987F785-EEC8-4726-8644-36F71105885D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{642AB311-DD94-4A3F-AD6E-177496FCD49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{642AB311-DD94-4A3F-AD6E-177496FCD49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{642AB311-DD94-4A3F-AD6E-177496FCD49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{642AB311-DD94-4A3F-AD6E-177496FCD49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C987F785-EEC8-4726-8644-36F71105885D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C987F785-EEC8-4726-8644-36F71105885D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C987F785-EEC8-4726-8644-36F71105885D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C987F785-EEC8-4726-8644-36F71105885D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AB084E5E-8ED3-4870-821B-0EA1D6EE8A7E}
+		SolutionGuid = {A2761BD1-2EFA-4555-BA26-2347BB4BE80E}
 	EndGlobalSection
 EndGlobal
