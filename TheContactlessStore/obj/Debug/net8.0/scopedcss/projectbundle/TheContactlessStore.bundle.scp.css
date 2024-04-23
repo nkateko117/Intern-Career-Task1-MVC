@@ -1,0 +1,49 @@
+/* _content/TheContactlessStore/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-jmo4p5g3uj] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-jmo4p5g3uj] {
+  color: #0077cc;
+}
+
+.btn-primary[b-jmo4p5g3uj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-jmo4p5g3uj], .nav-pills .show > .nav-link[b-jmo4p5g3uj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-jmo4p5g3uj] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-jmo4p5g3uj] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-jmo4p5g3uj] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-jmo4p5g3uj] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-jmo4p5g3uj] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
